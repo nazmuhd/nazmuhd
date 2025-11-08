@@ -1,15 +1,20 @@
 # 💫 About Me:
-I’m currently working on 🎥: 
+I’m currently working on 🎥:  
 Trying to make my Docker containers behave like civilised adults. So far, they’re throwing tantrums and refusing to talk to each other. It’s basically a reality show.<br><br>
-I’m looking to collaborate on :
+
+I’m looking to collaborate on 🧑‍🤝‍🧑:  
 Anything that doesn’t involve me crying over YAML files at 2 am. Bonus points if you bring snacks and memes.<br><br>
-I’m looking for help with 🤝:
+
+I’m looking for help with 🤝:  
 Debugging redirect loops makes me question my life choices.<br><br>
-I’m currently learning 🌱:
+
+I’m currently learning 🌱:  
 Currently on track to mastering patience, inner peace, and the art of not rage-deleting my entire stack.<br><br>
-Ask me about 💬:
+
+Ask me about 💬:  
 How to make the best ramen. Not saying I’m a good cook—probably a chef in disguise.<br><br>
-Fun fact ⚡:
+
+Fun fact ⚡:  
 Deleted a production database once. Still recovering emotionally. Backups are now my love language.
 
 ## 🌐 Socials:
